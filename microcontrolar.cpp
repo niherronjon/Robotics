@@ -1,5 +1,5 @@
 // C++ code
-//
+// Using Aurdino you can use this code
 const int trigPin = 2;
 const int echoPin = 3;
 ​
