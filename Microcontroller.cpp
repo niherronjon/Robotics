@@ -20,16 +20,19 @@ void loop()
   delay(1000);
   digitalWrite(GreenLed,LOW);
   delay(1000);
+
   
   digitalWrite(RedLed,HIGH);
   delay(1000);
   digitalWrite(RedLed,LOW);
   delay(1000);
+
   
   digitalWrite(OrangeLed,HIGH);
   delay(1000);
   digitalWrite(OrangeLed,LOW);
   delay(1000);
+
   
   digitalWrite(BlueLed,HIGH);
   delay(1000);
